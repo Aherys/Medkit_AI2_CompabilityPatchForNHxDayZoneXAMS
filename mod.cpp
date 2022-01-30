@@ -1,0 +1,10 @@
+name = "Medkit_AI2_NH_CompabilityPatch"; // name
+picture = ""; // picture in expanded description
+logoSmall = ""; // icon next to mod name when description is not expanded
+logo = ""; // logo below game menu
+logoOver = ""; // on mouse hover over logo
+tooltip = "Simple AI2 Kit"; // tool tip on mouse hover
+overview = "Simple AI2 kit"; // overview
+action = "https://dayz.com/"; // link
+author = "Aherys, Moonie"; // author
+version = "1.0"; // version
